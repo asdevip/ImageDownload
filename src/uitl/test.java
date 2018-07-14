@@ -80,6 +80,7 @@ public class test {
 	}
 
 	public static void main(String[] args) {
+		//
 		try {
 			String u = "http://e.hiphotos.baidu.com/image/pic/item/03087bf40ad162d9a62a929b1ddfa9ec8b13cd75.jpg";
 			downLoadFromUrl(u, "bai.jpg", "src/res/");
